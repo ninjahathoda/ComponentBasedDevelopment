@@ -1,0 +1,15 @@
+.unordered-list ul {
+    display: flex;
+    list-style-type: none;
+    padding-right: 70px;
+}
+
+.unordered-list ul li {
+    padding-left: 40px;
+}
+
+.maindiv-navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
